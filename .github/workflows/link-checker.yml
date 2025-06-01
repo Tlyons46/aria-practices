@@ -1,4 +1,4 @@
-name: Link Checker
+https://github.com/Tlyons46/aria-practices/blob/main/.github%2Fdependabot.ymlname: Link Checker
 
 on: [push, pull_request]
 
